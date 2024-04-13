@@ -5,8 +5,8 @@
 
 Repositório desenvolvido para fins educativos, com a disponibilização de materiais de apoio para o curso **Sistemas de Informação** da [Instituto Federal de Educação, Ciência e Tecnologia de Sergipe](https://www.ifs.edu.br/).
 
-[![Link do Curso](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://www.ifs.edu.br/lagarto.html) 
-[![Link do Curso](https://img.shields.io/badge/Acesse%20o%20Curso%20na%20Plataforma-E94D5F?style=for-the-badge)](https://www.ifs.edu.br/lagarto.html)
+[![Link do Curso](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://sigaa.ifs.edu.br/sigaa/public/home.jsf) 
+[![Link do Curso](https://img.shields.io/badge/Acesse%20o%20Curso%20na%20Plataforma-E94D5F?style=for-the-badge)](https://sigaa.ifs.edu.br/sigaa/public/home.jsf)
 
 ## Objetivo
 Fazer com que o estudante aprenda as principais estruturas de dados e possa utilizá-las de acordo com o problema a ser solucionado.
