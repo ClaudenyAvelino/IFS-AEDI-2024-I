@@ -12,7 +12,8 @@ Repositório desenvolvido para fins educativos, com a disponibilização de mate
 Fazer com que o estudante aprenda as principais estruturas de dados e possa utilizá-las de acordo com o problema a ser solucionado.
 
 ## Plano de aula
-<iframe src="src/Util/plano-de-aula.pdf" width="100%" height="600px"></iframe>
+[Clique aqui para visualizar o Plano de Aula](src/Util/plano-de-aula.pdf)
+
 
 ## Ferramentas
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
