@@ -25,15 +25,15 @@ Caderno
 
 ## Cronograma
 
-- [ ] **29/02** - 2 Aulas: Apresentação da Disciplina
-- [ ] **05/03** - 4 Aula 1: Revisão Vetores e Matrizes em Java
-- [ ] **07/03** - 2 Exercícios: Revisão Vetores e Matrizes
-- [ ] **12/03** - 4 (Continuação) Aula 1: Revisão Vetores e Matrizes em Java
-- [ ] **14/03** - 2 Exercícios: Revisão Vetores e Matrizes
-- [ ] **19/03** - 4 Aula 2: Complexidade de Algoritmos
-- [ ] **21/03** - 2 Exercícios: Complexidade de Algoritmos
-- [ ] **26/03** - 4 Aula 4: Algoritmos de Ordenação - Método da Bolha em Java
-- [ ] **28/03** (possível ponto facultativo) - 2 Exercícios: Algoritmos de Ordenação - Método da Bolha
+- [x] **29/02** - 2 Aulas: Apresentação da Disciplina
+- [x] **05/03** - 4 Aula 1: Revisão Vetores e Matrizes em Java
+- [x] **07/03** - 2 Exercícios: Revisão Vetores e Matrizes
+- [x] **12/03** - 4 (Continuação) Aula 1: Revisão Vetores e Matrizes em Java
+- [x] **14/03** - 2 Exercícios: Revisão Vetores e Matrizes
+- [x] **19/03** - 4 Aula 2: Complexidade de Algoritmos
+- [x] **21/03** - 2 Exercícios: Complexidade de Algoritmos
+- [x] **26/03** - 4 Aula 4: Algoritmos de Ordenação - Método da Bolha em Java
+- [x] **28/03** (possível ponto facultativo) - 2 Exercícios: Algoritmos de Ordenação - Método da Bolha
 - [ ] **02/04** - 4 Aula 5: Algoritmos de Ordenação - Merge Sort em Java
 - [ ] **04/04** - 2 Exercícios: Algoritmos de Ordenação - Merge Sort
 - [ ] **09/04** - 4 Aula 6: Classe como Estrutura de Dados
