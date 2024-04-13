@@ -1,5 +1,5 @@
 <h1>
-    <img align="center" width="40px" src="">
+    <img align="center" width="40px" src="rc/Util/ifs.png">
     <span> Disciplina Algoritmos e Estrutura de Dadosl 2024.1</span>
 </h1>
 
